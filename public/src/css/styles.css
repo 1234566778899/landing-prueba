@@ -1,0 +1,13 @@
+
+.bg-degrade
+{
+  background : -moz-linear-gradient(0% 50% 0deg,rgba(228, 189, 218, 1) 0%,rgba(109, 198, 217, 1) 100%);
+  background : -webkit-linear-gradient(0deg, rgba(228, 189, 218, 1) 0%, rgba(109, 198, 217, 1) 100%);
+}
+
+#inicio hr{
+  border: 3px solid rgb(161, 4, 4);
+
+}
+
+
